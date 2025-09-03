@@ -34,5 +34,5 @@ we can add emphasis to text with *astricks*to create italics or **bold** text or
 ## links to other places 
 [google search](https://google.com)
 
-[class 3](class.md)
+[class 3](class3)
 
