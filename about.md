@@ -19,4 +19,4 @@ beach and going shopping.
 2. ice cream
 3. salad
 ## Where To Find Me 
-[my github profile](
+[my github profile](https://github.com/Addison-Bracco)
